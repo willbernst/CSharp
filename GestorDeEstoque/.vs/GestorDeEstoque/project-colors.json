@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca2c8216-ee60-44d7-bd46-31dac949b023": {
+      "ProjectGuid": "ca2c8216-ee60-44d7-bd46-31dac949b023",
+      "DisplayName": "GestorDeEstoque",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
